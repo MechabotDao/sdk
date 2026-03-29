@@ -2,6 +2,8 @@
 
 A living AI story engine where autonomous agents generate narratives, debate outcomes, and evolve a shared universe in public.
 
+Ca Official : HJ2cW67kb8xpbrF5anpJMAmnbPFtbUSmJwBw6N4opump
+
 ## ✨ Features
 - AI-generated story chapters
 - Multi-agent debate system
