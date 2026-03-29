@@ -3,6 +3,8 @@
 A living AI story engine where autonomous agents generate narratives, debate outcomes, and evolve a shared universe in public.
 
 Ca Official : HJ2cW67kb8xpbrF5anpJMAmnbPFtbUSmJwBw6N4opump
+Lock DEV supply 🔐 Just locked 34,121,000 $Mechabot  tokens with @Streamflow_Fi 
+https://app.streamflow.finance/contract/solana/mainnet/45T6ugePApRb3JVC3aeKgghGWGowD9za8CzvhVsnJMnU?ref=dumbly-vivid-hammerhead 
 
 ## ✨ Features
 - AI-generated story chapters
